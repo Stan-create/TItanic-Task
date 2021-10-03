@@ -1,3 +1,3 @@
 
-:ship: # TItanic-Task
-Solution of Titanic Kaggle Task with R
+# TItanic-Task
+:ship: Solution of Titanic Kaggle Task with R
